@@ -21,7 +21,6 @@ Bitrated,https://www.bitrated.com/,yes,no,wallet,
 bitcoin-s,https://github.com/bitcoin-s/bitcoin-s-core,yes,no,library,
 Bitwala,https://bitwala.io,yes,no,remittance,Bitgo
 BitWasp,https://github.com/Bit-Wasp/bitcoin-php,yes,yes,library,
-Bity,https://bity.com,yes,no,broker,bitcoin core,
 Blockchain.info,https://blockchain.info/,yes,no,"wallet, block explorer",
 Blocktrail,https://www.blocktrail.com/,yes,no,"wallet, block explorer",
 BreadWallet,http://breadwallet.com/,yes,no,wallet,
@@ -31,6 +30,7 @@ btcpool,https://github.com/btccom/btcpool,yes,wip,"pool software",
 bustabit,https://www.bustabit.com,yes,wip,gambling,bitcoin core
 cgminer,https://www.blocktrail.com/,yes,yes,mining software,
 ckpool,https://bitbucket.org/ckolivas/ckpool,yes,yes,pool software,
+CoinCorner, https://www.coincorner.com,yes,wip,exchange,
 Coinfloor,https://www.coinfloor.co.uk/,yes,wip,exchange,
 Coinomi,https://coinomi.com/,yes,no,wallet,
 Coinsource,http://www.coinsource.net/,yes,yes,bitcoin atm network,
@@ -63,7 +63,6 @@ python-bitcoinlib,https://github.com/petertodd/python-bitcoinlib,yes,no,library,
 pycoin,https://github.com/richardkiss/pycoin,yes,no,library,n/a
 Samourai Wallet,http://samouraiwallet.com/,yes,wip,wallet,bitcoinj
 Slush Pool,https://www.slushpool.com/,yes,yes,mining pool,
-SpicePay,https://www.spicepay.com/,yes,wip,"exchange, merchant",
 stratum-mining,https://github.com/slush0/stratum-mining,yes,wip,"pool software",
 Smartbit,https://www.smartbit.com.au/,yes,yes,explorer,
 TREZOR,https://www.trezor.io/,yes,yes,hardware wallet,
